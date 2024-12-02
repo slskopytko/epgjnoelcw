@@ -1,4 +1,4 @@
-- pipeline: evrcciwjya
+- pipeline: Evrcciwjya
   refs:
   - refs/heads/master
   on: CLICK
